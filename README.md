@@ -1,2 +1,3 @@
 # hello-world
-creating a new repository
+
+My name is Eric. Adding a new commit.
